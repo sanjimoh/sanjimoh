@@ -9,8 +9,8 @@ Find out more about me & feel free to connect with me here -
 ## ⚡ Technologies
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-green?style=flat-square&logo=kubernetes)
-![GoLang](https://img.shields.io/badge/golang-white?style=flat-square&logo=golang)
-![Cassandra](https://img.shields.io/badge/golang-white?style=flat-square&logo=cassandra)
+![GoLang](https://img.shields.io/badge/golang-brightgreen?style=flat-square&logo=golang)
+![Cassandra](https://img.shields.io/badge/cassandra-yellow?style=flat-square&logo=cassandra)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
