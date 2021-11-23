@@ -1,6 +1,6 @@
 ### Hi I'm Sanjit 👋
 
-I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am a tech enthusiast & an open-source advocate. I am always open to collaborating on innovative/disruptive ideas. 
 I am Kubernetes & Cassandra certified professional.
 
 Find out more about me & feel free to connect with me here -
